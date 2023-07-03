@@ -1,5 +1,0 @@
-passing -> msg
--> object of a format
--> to a room
-
-// go cwh chat app for basics
